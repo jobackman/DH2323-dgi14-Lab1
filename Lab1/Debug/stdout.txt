@@ -1,0 +1,7506 @@
+START
+
+ xdiff: 1
+ ydiff: -1
+ zdiff: 0.2
+ Result.size: 4
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: 0
+ Result.size: 480
+
+ xdiff: 0
+ ydiff: 0.00208768
+ zdiff: -0.00208768
+ Result.size: 480
