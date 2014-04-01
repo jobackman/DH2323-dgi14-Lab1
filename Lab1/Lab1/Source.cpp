@@ -53,7 +53,7 @@ void Interpolate(vec3 a, vec3 b, vector<vec3>& result)
 }
 
 int main(int argc, char* argv[])
-{	cout << "START\n";	vector<vec3> result(4);	vec3 a(1, 4, 9.2);	vec3 b(4,1,9.8);	Interpolate(a, b, result); // Fill it with interpolated values
+{	//cout << "START\n";	//vector<vec3> result(4);	//vec3 a(1, 4, 9.2);	//vec3 b(4,1,9.8);	//Interpolate(a, b, result); // Fill it with interpolated values
 
 	screen = InitializeSDL(SCREEN_WIDTH, SCREEN_HEIGHT);
 	while (NoQuitMessageSDL())
@@ -68,8 +68,8 @@ void Draw()
 {
 	vector<vec3> leftSide(SCREEN_HEIGHT);
 	vector<vec3> rightSide(SCREEN_HEIGHT);
-	vector<vec3> topSide(SCREEN_WIDTH);
-	vector<vec3> bottomSide(SCREEN_WIDTH);
+	vector<vec3> line(SCREEN_WIDTH);
+
 
 	vec3 topLeft(1, 0, 0);		//red
 	vec3 topRight(0, 0, 1);		//blue
@@ -78,13 +78,15 @@ void Draw()
 
 	Interpolate(topLeft, bottomLeft, leftSide);
 	Interpolate(topRight, bottomRight, rightSide);
+	
+	
+	for (int y = 0; y < SCREEN_HEIGHT; ++y)
+	{
+		Interpolate(leftSide[y], rightSide[y], line);
 
-	for (int x = 0; x<SCREEN_WIDTH; ++x)
-	{ 
-
-		for (int y = 0; y<SCREEN_HEIGHT; ++y)
+		for (int x = 0; x < SCREEN_WIDTH; ++x)
 		{
-			vec3 color(leftSide[y].x, leftSide[y].y, leftSide[y].z);
+			vec3 color(line[x].x, line[x].y, line[x].z);
 			PutPixelSDL(screen, x, y, color);
 		}
 	}
